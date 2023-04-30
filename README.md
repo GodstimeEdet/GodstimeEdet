@@ -6,7 +6,8 @@
 <p>My Quest for gaining more knowledge in IT has deepened my interest in Data Science/Machine Learning in which I can leverage more on as a Powerful Tool for problem solving in Healthcare, Agriculture, Finance, Business etc.</p>
 <p>* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigeria* ✉️  </p>
 <p>* You can contact me at [edetsamuel727@gmail.com](mailto:edetsamuel727@gmail.com)</p>
-### Skills
+
+## Skills
 
 
 <p align="left">
