@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Godstime Edet
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1>My name is Godstime Edet</h1>
 <h2>Data Scientist</h2>
 I’m a graduate of Information Technology . I started my Career in IT as a Network Engineer with a sub ISP where I function basically on device configuration, maintenance, troubleshooting and assigning internet connectivity to homes and organizations through the use of radio devices and fibre optics installation.. I Now extend my appetite of problem solving skill with the use of emerging technologies tools in software development where I and my team develop software for government Agencies, organization and businesses to help in making them work efficiently and increase productivity. My Quest for gaining more knowledge in IT has deepened my interest in Data Science/Machine Learning in which I can leverage more on as a Powerful Tool for problem solving in Healthcare, Agriculture, Finance, Business etc.* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigerria* ✉️  You can contact me at [edetsamuel727@gmail.com](mailto:edetsamuel727@gmail.com)
 ### Skills
