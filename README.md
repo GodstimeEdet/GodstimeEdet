@@ -1,4 +1,4 @@
-<h1>Hi</h1> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<h1>Hi ![]</h1>(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1>My name is Godstime Edet</h1>
 <h2>Data Scientist</h2>
 I’m a graduate of Information Technology . I started my Career in IT as a Network Engineer with a sub ISP where I function basically on device configuration, maintenance, troubleshooting and assigning internet connectivity to homes and organizations through the use of radio devices and fibre optics installation.. 
