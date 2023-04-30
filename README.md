@@ -4,9 +4,8 @@
 <p>I’m a graduate of Information Technology . I started my Career in IT as a Network Engineer with a sub ISP where I function basically on device configuration, maintenance, troubleshooting and assigning internet connectivity to homes and organizations through the use of radio devices and fibre optics installation.. </p>
 <p>I Now extend my appetite of problem solving skill with the use of emerging technologies tools in software development where I and my team develop software for government Agencies, organization and businesses to help in making them work efficiently and increase productivity.</p>
 <p>My Quest for gaining more knowledge in IT has deepened my interest in Data Science/Machine Learning in which I can leverage more on as a Powerful Tool for problem solving in Healthcare, Agriculture, Finance, Business etc.</p>
-<p>* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigeria* ✉️  </p>
-<p>* You can contact me at (mailto:edetsamuel727@gmail.com)
-
+<p>* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigeria  </p>
+<p> *   ✉️  You can contact me at [edetsamuel727@gmail.com](mailto:edetsamuel727@gmail.com)</p>
 ## Skills
 
 
