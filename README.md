@@ -6,6 +6,7 @@
 <p>My Quest for gaining more knowledge in IT has deepened my interest in Data Science/Machine Learning in which I can leverage more on as a Powerful Tool for problem solving in Healthcare, Agriculture, Finance, Business etc.</p>
 
 <h2>PROGRAMMING :</h2>
+<p> ➤ Hands-on experience in handling large, complex datasets to develop end-to-end ML projects using Python.</p>
 <p>* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigeria  </p>
 
 
