@@ -7,6 +7,11 @@
 
 <h2>PROGRAMMING :</h2>
 <p> ➤ Hands-on experience in handling large, complex datasets to develop end-to-end ML projects using Python.</p>
+<p> ➤ Hands on experience with Python libraries – Pandas, Numpy, SciKit-Learn, Matplotlib, Seaborn, Tensorflow, NLTK, Statsmodel, beautifulsoup and other python packages for data mining and visualization.</p>
+<p> ➤Data processing with SQL, Jupyter</p>
+<p> ➤ Data Analytics : Hadoop with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra, Kafka, Tableau</p>
+
+
 <p>* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigeria  </p>
 
 
