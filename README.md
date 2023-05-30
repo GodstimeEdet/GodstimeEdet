@@ -12,9 +12,10 @@
 <p> ➤ Data Analytics : Hadoop with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassandra, Kafka, Tableau</p>
 
 
+<h2>ADDRESS :</h2>
 <p>* 🌍  I'm based in 1 Avenue, Gwarimpa, Abuja, Nigeria  </p>
 
-
+<h2>EMAIL :</h2>
 *   ✉️  You can contact me at [edetsamuel727@gmail.com](mailto:edetsamuel727@gmail.com)
 
 
